@@ -42,4 +42,18 @@ This project demonstrates a basic Security Operations Center (SOC) built using M
 
 Below are screenshots demonstrating the deployed SOC components and monitoring capabilities.
 
+### Virtual Machine Overview
+![VM_Overview](examples/screenshots/VM_Overview.png)
+### Resource Group
+![Resource_Groups](examples/screenshots/Resource_Groups.png)
+### Data Collection Rule
+![Data_Collection_Rule](examples/screenshots/Data_Collection_Rule.png)
+### Successfull Login Rule and Logic
+![Rule_and_Logic](examples/screenshots/Rule_and_Logic.png)
+### Alert Queries
+![Alert_Queries](examples/screenshots/Alert_Queries.png)
+### Inicident Dashboard
+![Incident_Dashboard](examples/screenshots/Incident_Dashboard.png)
+### Sentinel Dashboard
+![Sentinel_Dashboard](examples/screenshots/Sentinel_Dashboard.png)
 
