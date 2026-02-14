@@ -38,6 +38,8 @@ This project demonstrates a basic Security Operations Center (SOC) built using M
 - Alerts triggered when conditions were met
 - Dashboards provided visibility into login activity
 
+---
+
 ## Screenshots
 
 Below are screenshots demonstrating the deployed SOC components and monitoring capabilities.
@@ -56,4 +58,18 @@ Below are screenshots demonstrating the deployed SOC components and monitoring c
 ![Incident_Dashboard](examples/screenshots/Incident_Dashboard.png)
 ### Sentinel Dashboard
 ![Sentinel_Dashboard](examples/screenshots/Sentinel_Dashboard.png)
+
+---
+
+## Dislaimer
+
+All sensitive information (API keys, credentials, IP addresses, and subscription details) has been redacted.
+
+---
+
+**Author:** [Daniel Krakolinig] <br>
+
+**Version:** 1.0  <br>
+
+**Last Updated:** February 2026
 
